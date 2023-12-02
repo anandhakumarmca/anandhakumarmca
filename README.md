@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://anandh-portfolio.netlify.app/](https://anandh-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-ashy-three-77.vercel.app/](https://portfolio-ashy-three-77.vercel.app/)
 
 - 💬 Ask me about **Java, SpingBoot and MERN**
 
